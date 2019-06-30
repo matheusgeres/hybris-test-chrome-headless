@@ -15,5 +15,5 @@ npm i
 
 ### Na pasta do projeto execute
 ```bash
-node index.js
+node src/index.js
 ```
