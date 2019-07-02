@@ -1,4 +1,4 @@
-# carrefour-app-test-node
+# hybris-test-chrome-headless
 
 Teste automatizado no site padrão do Hybris com Chrome Headless (Puppeteer).
 
